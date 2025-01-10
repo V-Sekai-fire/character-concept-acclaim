@@ -1,0 +1,13 @@
+input_features:
+  - name: Image
+    type: image
+    encoder:
+      type: mlp_mixer
+
+output_features:
+  - name: Tags
+    type: set
+    decoder:
+      type: classifier
+  - name: Text to 3D Humanoid Character Rig
+    type: set

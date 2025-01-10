@@ -1,1 +1,1 @@
-Play 20 questions to generate an avatar.
+Auto caption with MiaoshouAI/Florence-2-base-PromptGen and <GENERATE_PROMPT>.
