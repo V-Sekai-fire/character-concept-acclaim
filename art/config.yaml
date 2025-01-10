@@ -10,4 +10,4 @@ output_features:
     decoder:
       type: classifier
   - name: Text to 3D Humanoid Character Rig
-    type: set
+    type: category
